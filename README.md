@@ -10,10 +10,13 @@ Strong in Python and SQL, with hands-on experience turning data into working mod
 
 ### 🔧 Technical Skills
 - **Languages:** Python, SQL  
-- **Machine Learning:** scikit-learn, feature engineering, model evaluation  
-- **NLP:** TF-IDF, text preprocessing, spam classification  
-- **Deep Learning:** CNNs, RNNs, ResNet50 (project-based)  
-- **Tools:** Git, GitHub, Jupyter Notebook, VS Code, Tableau  
+- **Machine Learning:** scikit-learn, feature engineering, model evaluation, XGBoost  
+- **NLP:** TF-IDF, text preprocessing, tokenization, stemming, lemmatization, spam classification  
+- **Deep Learning:** ANN, CNNs, RNNs, LSTM, GRU, ResNet50 (transfer learning), self-attention (fundamentals)  
+- **Data Analysis & BI:** Advanced Excel, Power BI, pandas, NumPy  
+- **Frameworks & APIs:** TensorFlow, Keras, LangChain, Hugging Face, OpenAI API, Claude API  
+- **Tools & Environments:** Git, GitHub, VS Code, Jupyter Notebook, Google Colab, Tableau  
+
 
 ---
 
