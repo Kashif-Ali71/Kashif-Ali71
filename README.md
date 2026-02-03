@@ -79,8 +79,7 @@ Strong in Python and SQL, with hands-on experience turning data into working mod
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Advanced Excel](https://img.shields.io/badge/Advanced%20Excel-Data%20Analysis%20%7C%20Dashboards-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Visualization- F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
+![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Visualization-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
