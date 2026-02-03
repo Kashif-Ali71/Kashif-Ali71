@@ -38,9 +38,7 @@ Strong in Python and SQL, with hands-on experience turning data into working mod
 
 ### 📌 What I’m Currently Working On
 - Improving model evaluation and optimization techniques  
-- Expanding NLP and deep learning projects  
-- Learning cybersecurity fundamentals alongside ML
-
+- Expanding NLP and deep learning projects 
 ---
 
 ### 📫 Let’s Connect
